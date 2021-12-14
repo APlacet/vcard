@@ -2,15 +2,16 @@
 @media screen and (min-width: 320px) {
 body {
     background-color: #EBEDFB;
+    margin-top: -1px;
+    margin-left: -1px;
+    position: absolute;
     }
+  
 #card {
     height: 100%;
     width: 100%;
     background-image: url("https://firebasestorage.googleapis.com/v0/b/luvbucks-mobile.appspot.com/o/lithic_css%2Fcard.svg?alt=media&token=beb4ded1-77b7-43ba-948e-7bfaf3ea58b8");
     background-repeat: no-repeat;
-    margin-top: -1px;
-    margin-left: -1px;
-    position: absolute;
     border-radius: 16px;
     padding-top: 45vh;
     padding-left: 6vw;
