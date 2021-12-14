@@ -4,13 +4,11 @@ body {
     background-color: #EBEDFB;
     }
 #card {
-    width: 90vw;
-    height: 52vh;
     background-image: url("https://firebasestorage.googleapis.com/v0/b/luvbucks-mobile.appspot.com/o/lithic_css%2Fcard.svg?alt=media&token=beb4ded1-77b7-43ba-948e-7bfaf3ea58b8");
     background-repeat: no-repeat;
     border-radius: 16px;
     padding-top: 45vh;
-    padding-left: 12px;
+    padding-left: 6vw;
     font-family: arial;
     font-weight: 900;
     font-size: 4em;
