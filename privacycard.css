@@ -10,6 +10,7 @@ body {
     background-repeat: no-repeat;
     margin-top: -1px;
     margin-left: -1px;
+    position: absolute;
     border-radius: 16px;
     padding-top: 45vh;
     padding-left: 6vw;
