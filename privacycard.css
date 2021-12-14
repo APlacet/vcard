@@ -6,6 +6,7 @@ body {
 #card {
     background-image: url("https://firebasestorage.googleapis.com/v0/b/luvbucks-mobile.appspot.com/o/lithic_css%2Fcard.svg?alt=media&token=beb4ded1-77b7-43ba-948e-7bfaf3ea58b8");
     background-repeat: no-repeat;
+    background-position: bottom 0px left 0px;
     border-radius: 16px;
     padding-top: 45vh;
     padding-left: 6vw;
