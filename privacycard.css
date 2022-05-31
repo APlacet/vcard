@@ -19,12 +19,12 @@ body {
     padding-left: 6vw;
     font-family: arial;
     font-weight: 900;
-    font-size: 4em;
+    font-size: 4.2em;
     color: #fff;
     }
   
 .pan-separator {
-  margin: 10px;
+  margin: 20px;
 }
   
  #pan {
