@@ -21,22 +21,22 @@ body {
     padding-left: 6vw;
     font-family: arial;
     font-weight: 900;
-    font-size: 4.3em;
+    font-size: 4.5em;
     color: #fff;
     }
   
 .pan-separator {
-  margin: 20px;
+  margin: 10px;
 }
   
  #pan {
      letter-spacing: .1em;
     }
  #expiry {
-   font-size: 4.2em;
+   font-size: 1.1em;
   }
  #cvv {
-   font-size: 4.2em;
+   font-size: 1.1em;
   }
 }
 
