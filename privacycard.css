@@ -21,7 +21,7 @@ body {
     padding-left: 6vw;
     font-family: arial;
     font-weight: 900;
-    font-size: 4.2em;
+    font-size: 4.3em;
     color: #fff;
     }
   
@@ -32,4 +32,12 @@ body {
  #pan {
      letter-spacing: .1em;
     }
+ #expiry {
+   font-size: 4.2em;
+  }
+ #cvv {
+   font-size: 4.2em;
+  }
 }
+
+
