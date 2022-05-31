@@ -3,6 +3,7 @@
 body {
     background-color: #EBEDFB;
     overflow-y: hidden;
+    overscroll-behavior-y: contain;
     min-height: 216px;
     max-height: 230px;
     scrolling: no;
