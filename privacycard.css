@@ -5,6 +5,7 @@ body {
     overflow-y: hidden;
     min-height: 216px;
     max-height: 230px;
+    scrolling: no;
     }
   
 #card {
