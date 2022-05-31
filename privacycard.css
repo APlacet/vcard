@@ -17,7 +17,7 @@ body {
     margin-top: -16px;
     margin-left: -16px;
     border-radius: 16px;
-    padding-top: 44vh;
+    padding-top: 40vh;
     padding-left: 6vw;
     font-family: arial;
     font-weight: 900;
@@ -26,17 +26,17 @@ body {
     }
   
 .pan-separator {
-  margin: 10px;
+  margin: 15px;
 }
   
  #pan {
      letter-spacing: .1em;
     }
  #expiry {
-   font-size: .9em;
+   font-size: .8em;
   }
  #cvv {
-   font-size: .9em;
+   font-size: .8em;
   }
 }
 
